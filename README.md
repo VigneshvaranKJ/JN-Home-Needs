@@ -4,23 +4,23 @@ _Welcome to our product's web page. Here we have the details of our products and
 
 | SOAP | PRICE |
 |---|---|
-| Sandal :deciduous_tree: | Rs.35/- |
-| Goat Milk :goat:	 | Rs.40/- |
-| Red Wine :wine_glass: | Rs.35/- |
-| Kuppai Meni :shamrock: | Rs.35/- |
-| Neem :leaves: | Rs.35/- |
-| Aloe Vera :herb: | Rs.35/- |
+| Sandal  🌳 | Rs.35/- |
+| Goat Milk 🐐 | Rs.40/- |
+| Red Wine 🍷 | Rs.35/- |
+| Kuppai Meni 🍀 | Rs.35/- |
+| Neem 🍃 | Rs.35/- |
+| Aloe Vera 🌿 | Rs.35/- |
 
-**ALL OUR SOAPS ARE MADE USING THE NATURAL INGERDIENTS** :green_heart:
+**ALL OUR SOAPS ARE MADE USING THE NATURAL INGERDIENTS** 💚
 
 For any customized soaps, kindly inform 1 week prior.
 
 We are also providing **washing liquid** in a very low price.
-Washing Liquid(1L) = Rs.80/-
+👔 (1L) = Rs.80/-
 
 #### CONTACT DETAILS
 **J NIRMALA DEVI**
 
-:telephone_receiver: 9942918708
+📞 9942918708
 
-ORDERS CAN ALSO BE PLACED IN WHATSAPP USING THE SAME NUMBER.
+ORDERS CAN ALSO BE PLACED IN WHATSAPP USING THE SAME NUMBER
