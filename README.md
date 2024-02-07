@@ -12,6 +12,7 @@ _Welcome to our product's web page. Here we have the details of our products and
 | Kuppai Meni 🍀 | Rs.35/- |
 | Neem 🍃 | Rs.30/- |
 | Aloe Vera 🌿 | Rs.30/- |
+| Multani Mitti 🌰 | Rs.30/- |
 
 **ALL OUR SOAPS ARE MADE USING THE NATURAL INGERDIENTS** 💚
 
