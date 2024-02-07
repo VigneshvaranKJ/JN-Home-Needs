@@ -4,12 +4,12 @@ _Welcome to our product's web page. Here we have the details of our products and
 
 | SOAP | PRICE |
 |---|---|
-| Sandal  🌳 | Rs.35/- |
+| Sandal  🌳 | Rs.40/- |
 | Goat Milk 🐐 | Rs.40/- |
 | Red Wine 🍷 | Rs.35/- |
 | Kuppai Meni 🍀 | Rs.35/- |
-| Neem 🍃 | Rs.35/- |
-| Aloe Vera 🌿 | Rs.35/- |
+| Neem 🍃 | Rs.30/- |
+| Aloe Vera 🌿 | Rs.30/- |
 
 **ALL OUR SOAPS ARE MADE USING THE NATURAL INGERDIENTS** 💚
 
