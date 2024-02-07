@@ -24,4 +24,4 @@ We are also providing **washing liquid** in a very low price.
 
 ☎️ 9942918708
 
-![image](https://github.com/VigneshvaranKJ/JN-Home-Needs/assets/30172593/c7668d04-256d-4fb4-ac84-e45e94f54062) WHATSAPP ORDERS ACCEPTED !!
+![image](https://github.com/VigneshvaranKJ/JN-Home-Needs/assets/30172593/c7668d04-256d-4fb4-ac84-e45e94f54062) [WHATSAPP ORDERS ACCEPTED](https://wa.me/qr/WPM3U2AV5WPHE1) !!
