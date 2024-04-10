@@ -8,11 +8,11 @@ _Welcome to our product's web page. Here we have the details of our products and
 |---|---|
 | Sandal  🌳 | Rs.40/- |
 | Goat Milk 🐐 | Rs.40/- |
-| Red Wine 🍷 | Rs.35/- |
-| Kuppai Meni 🍀 | Rs.35/- |
-| Neem 🍃 | Rs.30/- |
-| Aloe Vera 🌿 | Rs.30/- |
-| Multani Mitti 🌰 | Rs.30/- |
+| Red Wine 🍷 | Rs.40/- |
+| Kuppai Meni 🍀 | Rs.40/- |
+| Neem 🍃 | Rs.40/- |
+| Aloe Vera 🌿 | Rs.40/- |
+| Multani Mitti 🌰 | Rs.40/- |
 
 **ALL OUR SOAPS ARE MADE USING THE NATURAL INGERDIENTS** 💚
 
